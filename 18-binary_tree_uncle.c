@@ -2,12 +2,10 @@
 
 /**
  * binary_tree_uncle - Finds the uncle of a node
- * @node: Pointer to the node to find the uncle
+ * @node: Pointer to the node
  *
- * Description: Finds the uncle of a given node. If the node, its parent, or
- * its grandparent is NULL, returns NULL. Otherwise, it returns the pointer to
- * the uncle node. The uncle of a node is the sibling of the node's parent.
- * Return: Pointer to the uncle node, or NULL if none exists.
+ * Description: Finds the uncle of a given node
+ * Return: Point or null of unc node
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 {
