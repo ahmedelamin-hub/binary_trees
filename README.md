@@ -1,1 +1,1 @@
-This is a read me for this assignment
+This repository contains an assignment focused on binary trees, a fundamental data structure in computer science. The goal is to understand the concept and implementation of binary trees, as well as how to traverse, insert, delete, and manipulate nodes in the tree. You will implement common operations such as in-order, pre-order, and post-order traversals, and explore applications of binary trees like searching and sorting.
